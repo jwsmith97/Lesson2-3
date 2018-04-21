@@ -1,0 +1,54 @@
+All correct answers are repeated at the last line of the question
+
+It is possible to write a new Android Application with Microsoft Windows XP
+True PG 20
+
+
+Android Applications that you have written can be tested on which of the following:
+Apple iOS Devices
+Desktop computers without any additional software
+Android Virtual Devices set up on the machine you are writing the program with
+It is impossible to test a version of your application until it is ready to be launched to the Google Play Store
+Android Virtual Devices set up on the machine you are writing the program with PG 30
+
+Visual components in Android Developer are called tags
+false PG34
+
+Background Applications typically do which of the following?
+Only  refresh when opened
+run silently in the background with little user input
+Were never used past the first versions of Android
+Require a iCloud account
+Run silently in the background with little user input PG37
+
+The emulator is used to test and debug your application
+True PG 50
+
+Which of the following makes an Android application
+Activities
+Services
+Content Providers
+All of the above
+All of the above PG54
+
+
+The Manifest Editor allows you to edit with the Manifest without directly editing the comments
+False PG 63
+
+Strings help maintain consistency in your application.
+True PG 66
+
+If I wanted to code a color that consisted of the following values, how would my Hexadecimal number look?
+Red: 10 Green: 5 Blue: 50
+100550
+051050
+501005
+105005
+100550 PG 67
+
+Common UI widgets are included in Activity Subclasses in Android SDK. Which one of the below is NOT a Activity Subclass
+MapActivity
+ListActivity
+ExpandableListActivity
+ExpandableListView
+ExpandableListView PG 93
